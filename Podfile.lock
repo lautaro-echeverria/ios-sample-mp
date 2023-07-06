@@ -1,0 +1,28 @@
+PODS:
+  - Bolts/Tasks (1.9.1)
+  - mParticle-Apple-SDK (8.12.0):
+    - mParticle-Apple-SDK/mParticle (= 8.12.0)
+  - mParticle-Apple-SDK/mParticle (8.12.0)
+  - Parse (1.19.4):
+    - Parse/Core (= 1.19.4)
+  - Parse/Core (1.19.4):
+    - Bolts/Tasks (= 1.9.1)
+
+DEPENDENCIES:
+  - mParticle-Apple-SDK (~> 8)
+  - Parse
+
+SPEC REPOS:
+  trunk:
+    - Bolts
+    - mParticle-Apple-SDK
+    - Parse
+
+SPEC CHECKSUMS:
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  mParticle-Apple-SDK: bc9da8818b0a3f720cb036b4cdc489d99aac06fd
+  Parse: 6d572042e2c171414c677acabcd9bab7bbf51264
+
+PODFILE CHECKSUM: 203a9b53f9b6dbf14e897713875da2316ed48cb3
+
+COCOAPODS: 1.11.3
